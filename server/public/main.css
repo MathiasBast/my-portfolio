@@ -1,0 +1,23 @@
+body{
+  font-family: 'Heebo', sans-serif;
+}
+
+.navbar{
+  height: 40px;
+  margin: 0px auto 0px auto;
+  width: 900px;
+  display: flex;
+  box-shadow: 2px 2px 5px rgb(88, 88, 88);
+  padding: 2px;
+}
+
+.navbar-item{
+  margin-left: 2px;
+  margin-right: 2px;
+  height: 35px;
+  width: 90px;
+  border: 3px solid black;
+  display: inline-flex;
+  text-align: center;
+  background-color: honeydew;
+}
