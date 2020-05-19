@@ -29,7 +29,7 @@ const Home = () => {
         <p>
           I do love going on walks and runs. I did spend a few years in Gisborne on the east coast which has amazing beaches to run or walk on
           with amazing sun rises and sets over the sea which does light up the sky with the most beautiful orange glow. I do also love tramping,
-          which I don't do as much as I would like to. My favorite place to tramp is at lake waikaremoana. It is a lake in the north island of
+          which I do not do as much as I would like to. My favorite place to tramp is at lake waikaremoana. It is a lake in the north island of
           New Zealand, it is a few days walk and with amazing views that make the whole this worth is.
         </p>
         <p>

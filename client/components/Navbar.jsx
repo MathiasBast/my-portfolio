@@ -20,6 +20,11 @@ const Navbar = () => {
           <p>Projects</p>
         </div>
       </Link>
+      <Link style={{ textDecoration: 'none' }} to='/'>
+        <div className='navbar-item' >
+          <p>Contact</p>
+        </div>
+      </Link>
     </div>
     </>
   )
