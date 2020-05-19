@@ -27,4 +27,6 @@ body{
   border: 3px solid black;
   width: 1000px;
   height: 300px;
+  text-align: center;
+  background-color: whitesmoke;
 }
