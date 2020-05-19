@@ -8,10 +8,11 @@ const Home = () => {
         <h2>Web Developer</h2>
       </div>
       <div className='home-me' >
+        <h1>A Bit About Me</h1>
         <p>Hello, my name us Mathias</p>
         <p>
-          I do love coding and learning new things, I think I love it because of the satisfaction of putting it to use at the end, 
-          and once I understand something I do have an urge to try to understand how it works. I think this does make me a good learner 
+          I do love coding and learning new things, I think I love it because of the satisfaction of putting it to use at the end,
+          and once I understand something I do have an urge to try to understand how it works. I think this does make me a good learner
           who can pick things up easily who is easily motivated to work projects to completion.
         </p>
         <p>
@@ -23,6 +24,13 @@ const Home = () => {
           skills, like empathy, feedback, conflict resolution, and more. These may sound simple but they taught how to implement them in a work
           environment while keeping a team working together productively and I have used them in my personal life a few times because of how
           useful I find them.
+        </p>
+        <h2>Interests</h2>
+        <p>
+          I do love going on walks and runs. I did spend a few years in Gisborne on the east coast which has amazing beaches to run or walk on
+          with amazing sun rises and sets over the sea which does light up the sky with the most beautiful orange glow. I do also love tramping,
+          which I don't do as much as I would like to. My favorite place to tramp is at lake waikaremoana. It is a lake in the north island of
+          New Zealand, it is a few days walk and with amazing views that make the whole this worth is.
         </p>
       </div>
     </>
