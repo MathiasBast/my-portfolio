@@ -8,7 +8,7 @@ const Home = () => {
         <h2>Web Developer</h2>
       </div>
       <div className='home-me' >
-        <h1>A Bit About Me</h1>
+        <h1 className='home-titles' >A Bit About Me</h1>
         <p>Hello, my name us Mathias</p>
         <p>
           I do love coding and learning new things, I think I love it because of the satisfaction of putting it to use at the end,
@@ -25,12 +25,18 @@ const Home = () => {
           environment while keeping a team working together productively and I have used them in my personal life a few times because of how
           useful I find them.
         </p>
-        <h2>Interests</h2>
+        <h2 className='home-titles' >Interests</h2>
         <p>
           I do love going on walks and runs. I did spend a few years in Gisborne on the east coast which has amazing beaches to run or walk on
           with amazing sun rises and sets over the sea which does light up the sky with the most beautiful orange glow. I do also love tramping,
           which I don't do as much as I would like to. My favorite place to tramp is at lake waikaremoana. It is a lake in the north island of
           New Zealand, it is a few days walk and with amazing views that make the whole this worth is.
+        </p>
+        <p>
+          I do also love swimming, surfing, and everything to do with the sea. I have grown up around water, as a kid, I was at Piha on the
+          West Coast of Auckland where I did find my love for the sea. I did spend a lot of time playing in the waves and became good at swimming.
+          I think this did shape the person I am now. I am not as good at surfing as I would like to be so I am going to try to put some time towards
+          learning how to surf and becoming good at it, which will just come with practice.
         </p>
       </div>
     </>
