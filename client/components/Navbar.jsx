@@ -10,7 +10,7 @@ const Navbar = () => {
           <p>Home</p>
         </div>
       </Link>
-      <Link style={{ textDecoration: 'none' }} to='/'>
+      <Link style={{ textDecoration: 'none' }} to='/aboutMe'>
         <div className='navbar-item' >
           <p>About Me</p>
         </div>
