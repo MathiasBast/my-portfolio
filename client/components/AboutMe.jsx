@@ -14,6 +14,12 @@ const AboutMe = () => {
         Gisborne on the East Coast where I did finish college and further my interest in technology. I did get recommended a code Bootcamp named
         Enspiral Dev Academy.
       </p>
+      <p>
+        I did move back to Auckland to attend Enspiral Dev Academy and graduated. At EDA I there was an emphasis on self-teaching so I can further
+        my career by myself and teach my self new skills which are crucial to this industry because it is constantly evolving.
+      </p>
+
+      <h2>Some of the skills I learned</h2>
     </div>
     </>
   )
