@@ -28,6 +28,18 @@ const AboutMe = () => {
         <li>JWT Tokens</li>
         <li>Couch DB</li>
       </ul>
+      <p>
+        I do enjoy learning and trying new things and new technologies. I do spend a lot of my free time trying to further my knowledge.
+        I do not think I will ever stop learning new things and the great this is that there is always more to learn.
+      </p>
+      <h2>Things I like</h2>
+      <ul>
+        <li>Swimming</li>
+        <li>Walking</li>
+        <li>Running</li>
+        <li>Surfing</li>
+        <li>Tramping</li>
+      </ul>
     </div>
     </>
   )
