@@ -20,6 +20,14 @@ const AboutMe = () => {
       </p>
 
       <h2>Some of the skills I learned</h2>
+      <ul>
+        <li>JavaScript</li>
+        <li>HTML5</li>
+        <li>Redux</li>
+        <li>React</li>
+        <li>JWT Tokens</li>
+        <li>Couch DB</li>
+      </ul>
     </div>
     </>
   )
