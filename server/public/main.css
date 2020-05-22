@@ -46,7 +46,7 @@ body{
 }
 
 .contact-logos{
-  width: 50px;
+  width: 80px;
   height: auto;
 }
 
@@ -66,4 +66,22 @@ body{
 
 .take-me{
   width: 250px;
+}
+
+.contact-item{
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  text-align: center;
+  padding: 5px;
+  margin: 20px;
+}
+
+.contact-container{
+  display: flex;
+  justify-content: center;
+}
+
+.contact-info{
+  font-size: 15px;
 }
