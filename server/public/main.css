@@ -49,3 +49,21 @@ body{
   width: 50px;
   height: auto;
 }
+
+.project-item{
+  height: 250px;
+  width: 300px;
+  border: 2px solid black;
+  margin: 20px;
+  text-align: center;
+  background-color: darkgrey;
+}
+
+.project-container{
+  display: flex;
+  justify-content: center;
+}
+
+.take-me{
+  width: 250px;
+}

@@ -5,7 +5,7 @@ const ContactMe = () => {
     <>
       <div className='home-div' >
         <h1>Mathias Sebastian Bast</h1>
-        <h2>Web Developer</h2>
+        <h2>Contact Me</h2>
       </div>
       <div className='home-me' >
         <img className='contact-logos' src='/images/GitHub.png' />
