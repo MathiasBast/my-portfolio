@@ -6,6 +6,8 @@ import { wrapHistory } from 'oaf-react-router'
 import Home from './Home'
 import Navbar from './Navbar'
 import AboutMe from './AboutMe'
+import ContactMe from './ContactMe'
+import Projects from './Projects'
 
 const App = () => {
   const history = createBrowserHistory()
@@ -16,6 +18,8 @@ const App = () => {
         <Navbar />
         <Route exact path='/' component={Home} />
         <Route exact path='/aboutMe' component={AboutMe} />
+        <Route exact path='/contactMe' component={ContactMe} />
+        <Route exact path='/projects' component={Projects} />
       </>
     </Router>
   )

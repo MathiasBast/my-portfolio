@@ -15,12 +15,12 @@ const Navbar = () => {
           <p>About Me</p>
         </div>
       </Link>
-      <Link style={{ textDecoration: 'none' }} to='/'>
+      <Link style={{ textDecoration: 'none' }} to='/projects'>
         <div className='navbar-item' >
           <p>Projects</p>
         </div>
       </Link>
-      <Link style={{ textDecoration: 'none' }} to='/'>
+      <Link style={{ textDecoration: 'none' }} to='/contactMe'>
         <div className='navbar-item' >
           <p>Contact</p>
         </div>
