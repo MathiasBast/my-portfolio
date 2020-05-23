@@ -11,17 +11,6 @@ body{
   padding: 2px;
 }
 
-.navbar-item{
-  margin-left: 2px;
-  margin-right: 2px;
-  height: 35px;
-  width: 90px;
-  border: 3px solid black;
-  display: inline-flex;
-  text-align: center;
-  background-color: honeydew;
-}
-
 .home-div{
   margin: 20px auto 0px auto;
   border: 3px solid black;
@@ -88,4 +77,26 @@ body{
 
 .mars-pic{
   width: 255px;
+}
+
+.nav-button{
+  height: 35px;
+  width: 90px;
+  background-color: honeydew;
+  margin: 3px;
+  border: 3px solid black;
+}
+
+.nav-button:hover{
+  animation: fadeOut 0.3s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to{
+    opacity: 0.5;
+  }
 }

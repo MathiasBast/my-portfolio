@@ -6,24 +6,16 @@ const Navbar = () => {
     <>
     <div className='navbar'>
       <Link style={{ textDecoration: 'none' }} to='/'>
-        <div className='navbar-item' >
-          <p>Home</p>
-        </div>
+        <button className='nav-button'>Home</button>
       </Link>
       <Link style={{ textDecoration: 'none' }} to='/aboutMe'>
-        <div className='navbar-item' >
-          <p>About Me</p>
-        </div>
+        <button className='nav-button'>About Me</button>
       </Link>
       <Link style={{ textDecoration: 'none' }} to='/projects'>
-        <div className='navbar-item' >
-          <p>Projects</p>
-        </div>
+        <button className='nav-button'>Projects</button>
       </Link>
       <Link style={{ textDecoration: 'none' }} to='/contactMe'>
-        <div className='navbar-item' >
-          <p>Contact</p>
-        </div>
+        <button className='nav-button'>Contact</button>
       </Link>
     </div>
     </>
